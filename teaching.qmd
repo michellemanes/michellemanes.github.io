@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+---
+
+<!-- A short statement of your approach to teaching sets the tone before the
+     list of courses. Given your background as a mathematics educator, this is
+     a natural place to say something distinctive. -->
+
+## Teaching philosophy
+
+Add a few sentences here about how you approach teaching and what you want
+students to take away.
+
+## Courses
+
+- **Course number — Title**, term/year. [materials](#)
+- **Course number — Title**, term/year.
+
+## Advising
+
+I'm happy to hear from prospective students and mentees.
+
+<!-- If you're open to students, say so and note how to reach you. -->

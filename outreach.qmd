@@ -1,0 +1,22 @@
+---
+title: "Education & Outreach"
+---
+
+Mathematics education and outreach have been part of my work throughout my
+career, from K–12 teaching to building research communities for women in
+mathematics.
+
+## K–12 education
+
+<!-- Math circles, teacher professional development, curriculum work, etc. -->
+- Add programs, roles, and links here.
+
+## Broadening participation
+
+- **Women in Numbers (WIN) network** — [add a sentence and link].
+- **AWM** — AWM Fellow, 2020.
+- Add other committees, workshops, and initiatives.
+
+## Talks & writing for general audiences
+
+- **Title**, venue/publication, year. [link](#)

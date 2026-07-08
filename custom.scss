@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+
+// Accessibility-first tweaks layered on top of the "cosmo" theme.
+// Priorities: strong contrast, readable size, obvious focus states.
+
+// Slightly darkened link color for AA contrast on white:
+$link-color: #1a5fb4;
+$link-hover-color: #0b3d80;
+
+// Comfortable base type
+$font-size-root: 17px;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+
+body {
+  color: #1a1a1a;              // near-black text = high contrast
+  background-color: #ffffff;
+}
+
+// Make keyboard focus clearly visible (important for accessibility)
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid #1a5fb4;
+  outline-offset: 2px;
+}
+
+// Underline links in body text so color isn't the only signal
+main a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+// Headshot styling used on the home page
+.headshot {
+  border-radius: 8px;
+  max-width: 240px;
+  height: auto;
+}
+
+// A little breathing room under section headings
+h2 {
+  margin-top: 2rem;
+}

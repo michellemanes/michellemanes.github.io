@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Michelle Manes"
+  description: "Michelle Manes — mathematician working in arithmetic dynamics, number theory, and mathematics education."
+  site-url: "https://michellemanes.com"   # update once you register your domain
+  favicon: favicon.png                      # optional; add a small square image if you like
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Education & Outreach"
+        href: outreach.qmd
+    right:
+      - text: "CV"
+        href: cv/manes-cv.pdf   # drop your CV PDF in a cv/ folder
+      - icon: envelope
+        href: "mailto:michelle.manes@gmail.com"
+        aria-label: "Email"
+  page-footer:
+    left: "© 2026 Michelle Manes"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo          # a clean, light, high-contrast Bootstrap theme
+      - custom.scss    # small accessibility overrides (see that file)
+    toc: false
+    lang: en
+    fontsize: 1.05rem
+    linestretch: 1.6
+    grid:
+      body-width: 820px   # comfortable reading measure
+    link-external-newwindow: true
+    link-external-icon: true

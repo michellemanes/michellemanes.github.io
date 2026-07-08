@@ -1,0 +1,42 @@
+---
+title: "Research"
+---
+
+My work is in **arithmetic dynamics**, and more broadly number theory,
+arithmetic geometry, and dynamical systems.
+
+<!-- One or two sentences of plain-language framing go a long way; visitors
+     who aren't specialists appreciate a way in before the paper list. -->
+
+## Publications
+
+<!--
+  Two ways to manage this list:
+
+  1) Simple (recommended to start): just type entries by hand, like below.
+  2) Automated: Quarto supports a bibliography. Put your references in
+     `references.bib` and add `bibliography: references.bib` to this file's
+     YAML header, then cite or use a "nocite" block to render everything.
+
+  Link each paper to its arXiv and journal version.
+-->
+
+- **Paper title**, with Coauthor(s).
+  *Journal*, year.
+  [arXiv](https://arxiv.org/abs/XXXX.XXXXX) · [journal](https://doi.org/XXX)
+
+- **Another paper title**.
+  *Journal*, year.
+  [arXiv](https://arxiv.org/abs/XXXX.XXXXX)
+
+_See [Google Scholar](https://scholar.google.com/citations?user=KlfuQQIAAAAJ)
+or [arXiv](https://arxiv.org/a/manes_m_1) for the complete, current list._
+
+## Selected talks
+
+- **Talk title**, Venue, year. [slides](#)
+
+## Editorial & service
+
+<!-- Editorial boards, WIN network, conference organizing, NSF service, etc. -->
+- Add items here.
