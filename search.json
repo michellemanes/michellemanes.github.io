@@ -1,80 +1,45 @@
 [
   {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Education & Outreach",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michelle Manes",
     "section": "",
-    "text": "Mathematics education and outreach have been part of my work throughout my career, from K–12 teaching to building research communities for women in mathematics."
+    "text": "Michelle Manes\n\n\n\n\nI’m a mathematician and Deputy Director of the American Institute of Mathematics (AIM). My research is in arithmetic dynamics and number theory, and much of my work centers on building and sustaining research communities — especially ones that widen who gets to do mathematics.\nI’m also Co-Editor-in-Chief of La Matematica, the flagship journal of the Association for Women in Mathematics, and Associate Secretary for the Western Section of the American Mathematical Society.\nCV (PDF)  ·  Google Scholar  ·  arXiv  ·  ORCID  ·  email"
   },
   {
-    "objectID": "outreach.html#k12-education",
-    "href": "outreach.html#k12-education",
-    "title": "Education & Outreach",
-    "section": "K–12 education",
-    "text": "K–12 education\n\n\nAdd programs, roles, and links here."
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Michelle Manes",
+    "section": "About",
+    "text": "About\nMy research is in arithmetic dynamics — the study of number-theoretic and arithmetic-geometric questions that arise from iterating dominant self-maps of projective varieties — and more broadly in number theory and arithmetic geometry. I earned my Ph.D. at Brown University under Joseph H. Silverman.\nFor fifteen years I was on the mathematics faculty at the University of Hawai‘i at Mānoa, where I was Professor of Mathematics, and from 2018 to 2021 I served as a Program Director in the Division of Mathematical Sciences at the National Science Foundation. Since 2022 I have been Deputy Director of AIM, helping to lead one of the NSF-supported U.S. mathematical sciences research institutes.\nBefore returning to graduate school I spent a decade as a mathematics educator, and that experience continues to shape how I think about teaching, mentoring, outreach, and access to mathematics. I’m a Fellow of the American Mathematical Society (2024) and of the Association for Women in Mathematics (2020)."
   },
   {
-    "objectID": "outreach.html#broadening-participation",
-    "href": "outreach.html#broadening-participation",
-    "title": "Education & Outreach",
-    "section": "Broadening participation",
-    "text": "Broadening participation\n\nWomen in Numbers (WIN) network — [add a sentence and link].\nAWM — AWM Fellow, 2020.\nAdd other committees, workshops, and initiatives."
-  },
-  {
-    "objectID": "outreach.html#talks-writing-for-general-audiences",
-    "href": "outreach.html#talks-writing-for-general-audiences",
-    "title": "Education & Outreach",
-    "section": "Talks & writing for general audiences",
-    "text": "Talks & writing for general audiences\n\nTitle, venue/publication, year. link"
-  },
-  {
-    "objectID": "leadership.html",
-    "href": "leadership.html",
-    "title": "Leadership & Service",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Much of my work is in the leadership and stewardship of mathematics: running a research institute, shaping national funding programs, editing a research journal, and building research communities."
+    "text": "My research is in arithmetic dynamics — the study of number-theoretic and arithmetic-geometric questions that arise from iterating dominant self-maps of projective varieties — and more broadly in number theory and arithmetic geometry. Recurring themes in my work include moduli spaces of dynamical systems, post-critically finite maps, Galois theory of iterated preimages (arboreal representations), Belyi maps, and dynamical Mahler measure.\nFor the complete and current list, see Google Scholar, arXiv, or ORCID."
   },
   {
-    "objectID": "leadership.html#current-roles",
-    "href": "leadership.html#current-roles",
-    "title": "Leadership & Service",
-    "section": "Current roles",
-    "text": "Current roles\n\nDeputy Director, American Institute of Mathematics (AIM) — 2022–present\n\nI work closely with the Executive Director to create, manage, and oversee AIM’s scientific programs — more than 20 workshops and 60+ SQuaRE research groups each year — and I share responsibility for the institute’s leadership, budgeting, fundraising, and representation to the mathematical community. I was a major contributor to and co-PI on the $12.7M NSF award establishing AIM’s Research Conference Center (“A Model for Collaboration,” 2025–2030), and I oversaw AIM’s move to its new home on the Caltech campus.\n\nCo-Editor-in-Chief, La Matematica — 2022–present\n\nOne of four founding editors-in-chief of the flagship journal of the Association for Women in Mathematics, published by Springer. We built the journal around equitable publishing practices — a doubly anonymous review process, a name-change policy, constructive reviews, quick turnaround, and an editorial board with exceptional diversity.\n\nAssociate Secretary, Western Section, American Mathematical Society — 2023–present\n\nResponsible for the scientific program of two AMS sectional meetings each year and the Joint Mathematics Meetings every four years, and a member of the AMS Council. Associate Secretary in charge of JMM 2024 (San Francisco) and JMM 2028 (Philadelphia), and of the AMS Joint International Meeting in Armenia (2028)."
+    "objectID": "research.html#preprints-and-papers",
+    "href": "research.html#preprints-and-papers",
+    "title": "Research",
+    "section": "Preprints and papers",
+    "text": "Preprints and papers\n\nP. H. Lee, M. Manes, N. X. Truong, “Local fields, iterated extensions, and Julia sets,” submitted. (arXiv version)\nJ. Anderson, M. Manes, and B. Tobin, “Some applications of dynamical Belyi polynomials,” La Matematica 3 (2024), no. 3, 891–906. (arXiv version)\nA. Carter, M. Lalín, M. Manes, and A. B. Miller, “Dynamical Mahler measure: a survey and some recent results,” in Research Directions in Number Theory, 219–252. (arXiv version)\nA. Carter, M. Lalín, M. Manes, A. B. Miller, and L. Mocz, “Two-variable polynomials with dynamical Mahler measure zero,” Res. Number Theory 8 (2022), 22 pp. (arXiv version)\nJ. Anderson, M. Manes, and B. Tobin, “Cubic post-critically finite polynomials defined over ℚ,” ANTS XIV — Proceedings of the Fourteenth Algorithmic Number Theory Symposium, Open Book Series 4 (2020), 23–38. (arXiv version)\nX. Faber, M. Manes, and L. Walton, “An alternate proof of idempotent relations among periodic points and quotients,” Journal of Number Theory 205 (2019), 44–49. (arXiv version)\nR. Benedetto, P. Ingram, R. Jones, M. Manes, J. H. Silverman, and T. Tucker, “Current trends and open problems in arithmetic dynamics,” Bulletin of the AMS 56 (2019), no. 4, 611–685. (arXiv version)\nJ. Juul, H. Krieger, N. Looper, M. Manes, B. Thompson, and L. Walton, “Arboreal representations for rational maps with few critical points,” in Research Directions in Number Theory: Women in Numbers IV, Springer (2019), 133–151. (arXiv version)\nM. Manes, G. Melamed, and B. Tobin, “Dessins d’enfants for single-cycle Belyi maps,” in Research Directions in Number Theory: Women in Numbers IV, Springer (2019), 153–159. (arXiv version)\nM. Manes and B. Thompson, “Periodic points in towers of finite fields for polynomials associated to algebraic groups,” Rocky Mountain Journal of Mathematics 49 (2019), no. 1, 171–197. (arXiv version)\nM. Manes and J. H. Silverman, “A classification of degree 2 semi-stable rational maps ℙ² → ℙ² with large finite dynamical automorphism group,” Annales de la Faculté des Sciences de Toulouse (6) 28 (2019), no. 4, 733–811. (arXiv version)\nJ. Anderson, I. Bouw, O. Edjer, N. Girgin, V. Karemaker, and M. Manes, “Dynamical Belyi maps,” in Women in Numbers Europe 2, Springer (2018), 57–82. (arXiv version)\nA. Bridy, P. Ingram, R. Jones, J. Juul, A. Levy, M. Manes, S. Rubinstein-Salzedo, and J. H. Silverman, “Finite ramification for preimage fields of postcritically finite morphisms,” Mathematical Research Letters 24 (2017), no. 6, 1633–1647. (arXiv version)\nF. Balestrieri, J. Berg, M. Manes, J. Park, and B. Viray, “Insufficiency of the Brauer-Manin obstruction for Enriques surfaces,” in Directions in Number Theory: Proceedings of the 2014 WIN3 Workshop, Springer (2016), 1–31. (arXiv version)\nI. Bouw, J. Cooley, K. Lauter, E. Lorenzo Garcia, M. Manes, R. Newton, and E. Ozman, “Bad reduction of genus-3 curves with complex multiplication,” in Women in Numbers Europe, Springer (2015), 109–151. (arXiv version)\nX. Faber, M. Manes, and B. Viray, “Computing conjugating sets and automorphism groups of rational functions,” Journal of Algebra 423 (2015), 1161–1190. (arXiv version)\nB. Hutz and M. Manes, “The field of definition for dynamical systems on ℙᴺ,” Bulletin of the Institute of Mathematics Academia Sinica 9 (2014), 585–601. (arXiv version)\nD. Lukas, M. Manes, and D. Yap, “A census of quadratic post-critically finite rational functions defined over ℚ,” LMS J. Comput. Math. 17 (2014), 314–329. (arXiv version)\nA. Levy, M. Manes, and B. Thompson, “Uniform bounds for pre-periodic points in families of twists,” Proceedings of the AMS 142 (2014), 3075–3088. (arXiv version)\nR. Jones and M. Manes, “Galois theory of rational functions with nontrivial automorphisms,” Comment. Math. Helv. 89 (2014), 173–213. (arXiv version)\nM.-J. Bertin, A. Feaver, J. Fuselier, M. Lalín, and M. Manes, “Mahler measure of some singular K3-surfaces,” in Women in Numbers 2, Contemp. Math. 606 (2013), 237–247. (arXiv version)\nM. Manes and Y. Yasufuku, “Explicit descriptions of quadratic maps on ℙ¹ defined over a field K,” Acta Arithmetica 148 (2011), 257–267. (arXiv version)\nB. Malmskog and M. Manes, “Ramified covers of graphs and the Ihara zeta functions of certain ramified covers,” in WIN — Women in Numbers, Fields Institute Communications 60 (2011), 237–247.\nB. Malmskog and M. Manes, “Almost divisibility in the Ihara zeta functions of certain ramified covers of q+1-regular graphs,” Linear Algebra and Its Applications 432 (2010), 2486–2506.\nX. Faber, B. Hutz, P. Ingram, R. Jones, M. Manes, T. Tucker, and M. Zieve, “Uniform bounds on pre-images under quadratic dynamical systems,” Mathematical Research Letters 16 (2009), 87–101. (arXiv version)\nM. Manes, “Moduli spaces for families of rational maps on ℙ¹,” Journal of Number Theory 129 (2009), 1623–1663. (arXiv version)\nM. Manes, “ℚ-rational cycles for degree-2 rational maps having an automorphism,” Proceedings of the London Mathematical Society 96 (2008), 669–696."
   },
   {
-    "objectID": "leadership.html#previous-roles",
-    "href": "leadership.html#previous-roles",
-    "title": "Leadership & Service",
-    "section": "Previous roles",
-    "text": "Previous roles\n\nProgram Director, Division of Mathematical Sciences, National Science Foundation — 2018–2021\n\nStewarded a portfolio of research and education awards — primary responsibility for 100+ proposals a year and shared responsibility for 500+ — across the Algebra and Number Theory, REU, CAREER, Focused Research Groups, Research Training Groups, and CDS&E programs. Helped propose a new “Research Initiation” program to support investigators launching their research careers.\n\nProfessor of Mathematics, University of Hawai‘i at Mānoa — 2008–2023\n\nFaculty member for fifteen years (Assistant, Associate, then full Professor), with an active research program and extensive departmental and university service. (See Teaching & Outreach for teaching and mentoring.)"
-  },
-  {
-    "objectID": "leadership.html#building-research-communities",
-    "href": "leadership.html#building-research-communities",
-    "title": "Leadership & Service",
-    "section": "Building research communities",
-    "text": "Building research communities\n\nRoots of Unity workshop — co-founder and co-organizer, 2022–present\n\nA workshop supporting graduate students’ transition to research in algebra, combinatorics, geometry, topology, and number theory, designed to build a welcoming and inclusive research community. Brought to the math institutes with funding I secured through a collaborative NSF grant.\n\nWomen in Numbers (WIN) — Steering Committee (Founding Chair, 2015–2019; member, 2019–present)\n\nAn international research network building collaborations and community among women in number theory. Co-organized WIN research collaboration workshops at the Banff International Research Station (2011, 2017) and edited the resulting proceedings volumes."
-  },
-  {
-    "objectID": "leadership.html#selected-professional-service",
-    "href": "leadership.html#selected-professional-service",
-    "title": "Leadership & Service",
-    "section": "Selected professional service",
-    "text": "Selected professional service\n\nAWM Fellows Selection Committee: member (2020–2022), Chair (2021–2022).\nAWM Research Collaboration Conferences for Women Committee: Chair (2015–2018).\nAMS Sectional Meetings Travel Grants Committee: member (2018–2021).\nHuman Resources Board, AIM: member (2015–2018).\nReferee for numerous journals; reviewer for AMS Mathematical Reviews; contributor to Sage."
-  },
-  {
-    "objectID": "leadership.html#selected-grants",
-    "href": "leadership.html#selected-grants",
-    "title": "Leadership & Service",
-    "section": "Selected grants",
-    "text": "Selected grants\n\nCo-PI, NSF DMS-2425344, “AIM Research Conference Center: A Model for Collaboration,” $12,734,998 (2025–2030).\nCo-PI, NSF DMS-2317570, “Mathematical Sciences Institutes Diversity Initiative,” $219,726 (2026).\nPI, Simons Collaboration Grant for Mathematicians, $42,000 (2022–2027).\nCo-PI, NSF DGE-0841223, “SUPER-M: School and University Partnership for Educational Renewal in Mathematics,” $2,197,284 (2009–2014).\nPI, NSF DMS-1102858, “Developing a Theory of Dynamical Complex Multiplication,” $99,814 (2011–2014).\n\nA complete list of grants and service is in my CV."
+    "objectID": "research.html#books-and-edited-volumes",
+    "href": "research.html#books-and-edited-volumes",
+    "title": "Research",
+    "section": "Books and edited volumes",
+    "text": "Books and edited volumes\n\nA. Cuoco, K. Waterman, B. Kerins, E. Kaczorowski, and M. Manes, Linear Algebra and Geometry, AMS/MAA Textbooks, vol. 46, American Mathematical Society (2019).\nJ. Balakrishnan, A. Folsom, M. Lalín, and M. Manes (eds.), Research Directions in Number Theory: Women in Numbers IV, Springer (2019).\nC. David, M. Lalín, and M. Manes (eds.), Women in Numbers 2: Research Directions in Number Theory, Contemporary Mathematics 606, AMS (2013)."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching & Outreach",
     "section": "",
-    "text": "Before I became a research mathematician I spent a decade as a mathematics educator, and teaching, mentoring, and outreach have remained central to my work ever since — from doctoral advising to K–12 teacher professional development."
+    "text": "Before I became a research mathematician I spent a decade as a mathematics educator, and teaching, mentoring, and outreach have remained central to my work ever since — from doctoral advising to K–12 teacher professional development. I have taught mathematics at every level from third grade through graduate school; in public schools, private schools, charter schools, and summer programs; with special-needs students, girls, diverse urban populations, and Ivy League college students. In addition to all of this, I have extensive experience working with both preservice and inservice teachers."
   },
   {
     "objectID": "teaching.html#teaching-honors",
@@ -102,48 +67,34 @@
     "href": "teaching.html#curriculum-and-education-writing",
     "title": "Teaching & Outreach",
     "section": "Curriculum and education writing",
-    "text": "Curriculum and education writing\n\nCreated an open educational resource textbook, Mathematics for Elementary Teachers (2013), and redesigned the corresponding courses at UH Mānoa.\nSenior author on widely adopted secondary curricula, including IMPACT Mathematics, Connected Geometry, and Mathematical Methods in High School (now part of the CME Project).\nM. Manes, “Women in Numbers: a research community,” in Count Me In: Community and Belonging in Mathematics, AMS (2022).\nM. Manes, “Mathematics, we have a problem,” in A Conversation on Professional Norms in Mathematics, AMS (2021).\n\nA full list of education publications and curricula is in my CV."
+    "text": "Curriculum and education writing\n\nCreated an open educational resource textbook, Mathematics for Elementary Teachers (2013), and redesigned the corresponding courses at UH Mānoa.\nSenior author on widely adopted secondary curricula, including IMPACT Mathematics, Connected Geometry, and Mathematical Methods in High School (now part of the CME Project).\nLearning Math: Geometry, Annenberg/CPB — a multimedia online geometry course for teachers of grades K–8.\nB. Donaldson, D. Farmer, S. Koutsoliotas, and M. Manes, “AIM: Building and supporting collaborative research communities,” Mathematical Intelligencer 46 (2024), no. 4, 378–392.\nM. Manes, “Women in Numbers: a research community,” in Count Me In: Community and Belonging in Mathematics, AMS (2022).\nM. Manes, “Building bridges between universities and K–12 schools,” Notes of the Canadian Mathematical Society 42.5 (Oct–Nov 2010), 8–9.\n\nA full list of education publications and curricula is in my CV."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership & Service",
     "section": "",
-    "text": "My research is in arithmetic dynamics — the arithmetic and number-theoretic study of iterated rational maps — and more broadly in number theory and arithmetic geometry. Recurring themes in my work include moduli spaces of dynamical systems, post-critically finite maps, Galois theory of iterated preimages (arboreal representations), Belyi maps, and dynamical Mahler measure.\nFor the complete and current list, see Google Scholar, arXiv, or ORCID."
+    "text": "Deputy Director, American Institute of Mathematics (AIM) — 2022–present\n\nI work closely with the Executive Director to create, manage, and oversee AIM’s scientific programs — more than 20 workshops and 60+ SQuaRE research groups each year — and I share responsibility for the institute’s leadership, budgeting, fundraising, and representation to the mathematical community. I was a major contributor to and co-PI on the $12.7M NSF award establishing AIM’s Research Conference Center (“A Model for Collaboration,” 2025–2030), and I oversaw AIM’s move to its new home on the Caltech campus.\n\nCo-Editor-in-Chief, La Matematica — 2022–present\n\nOne of four founding editors-in-chief of the flagship journal of the Association for Women in Mathematics, published by Springer. We built the journal around equitable publishing practices — a doubly anonymous review process, a name-change policy, constructive reviews, quick turnaround, and an editorial board with exceptional diversity.\n\nAssociate Secretary, Western Section, American Mathematical Society — 2023–present\n\nResponsible for the scientific program of two AMS sectional meetings each year and the Joint Mathematics Meetings every four years, and a member of the AMS Council. Associate Secretary in charge of JMM 2024 (San Francisco) and JMM 2028 (Philadelphia), and of the AMS Joint International Meeting in Armenia (2028)."
   },
   {
-    "objectID": "research.html#books-and-edited-volumes",
-    "href": "research.html#books-and-edited-volumes",
-    "title": "Research",
-    "section": "Books and edited volumes",
-    "text": "Books and edited volumes\n\nA. Cuoco, K. Waterman, B. Kerins, E. Kaczorowski, and M. Manes, Linear Algebra and Geometry, AMS/MAA Textbooks, vol. 46, American Mathematical Society (2019).\nJ. Balakrishnan, A. Folsom, M. Lalín, and M. Manes (eds.), Research Directions in Number Theory: Women in Numbers IV, Springer (2019).\nC. David, M. Lalín, and M. Manes (eds.), Women in Numbers 2: Research Directions in Number Theory, Contemporary Mathematics 606, AMS (2013)."
-  },
-  {
-    "objectID": "research.html#peer-reviewed-publications",
-    "href": "research.html#peer-reviewed-publications",
-    "title": "Research",
-    "section": "Peer-reviewed publications",
-    "text": "Peer-reviewed publications\n\nP. H. Lee, M. Manes, N. X. Truong, “Local fields, iterated extensions, and Julia sets,” submitted.\nJ. Anderson, M. Manes, and B. Tobin, “Some applications of dynamical Belyi polynomials,” La Matematica 3 (2024), no. 3, 891–906.\nA. Carter, M. Lalín, M. Manes, and A. B. Miller, “Dynamical Mahler measure: a survey and some recent results,” in Research Directions in Number Theory, 219–252.\nA. Carter, M. Lalín, M. Manes, A. B. Miller, and L. Mocz, “Two-variable polynomials with dynamical Mahler measure zero,” Res. Number Theory 8 (2022), 22 pp.\nJ. Anderson, M. Manes, and B. Tobin, “Cubic post-critically finite polynomials defined over ℚ,” ANTS XIV — Proceedings of the Fourteenth Algorithmic Number Theory Symposium, Open Book Series 4 (2020), 23–38.\nX. Faber, M. Manes, and L. Walton, “An alternate proof of idempotent relations among periodic points and quotients,” Journal of Number Theory 205 (2019), 44–49.\nR. Benedetto, P. Ingram, R. Jones, M. Manes, J. H. Silverman, and T. Tucker, “Current trends and open problems in arithmetic dynamics,” Bulletin of the AMS 56 (2019), no. 4, 611–685.\nJ. Juul, H. Krieger, N. Looper, M. Manes, B. Thompson, and L. Walton, “Arboreal representations for rational maps with few critical points,” in Research Directions in Number Theory: Women in Numbers IV, Springer (2019), 133–151.\nM. Manes, G. Melamed, and B. Tobin, “Dessins d’enfants for single-cycle Belyi maps,” in Research Directions in Number Theory: Women in Numbers IV, Springer (2019), 153–159.\nM. Manes and B. Thompson, “Periodic points in towers of finite fields for polynomials associated to algebraic groups,” Rocky Mountain Journal of Mathematics 49 (2019), no. 1, 171–197.\nM. Manes and J. H. Silverman, “A classification of degree 2 semi-stable rational maps ℙ² → ℙ² with large finite dynamical automorphism group,” Annales de la Faculté des Sciences de Toulouse (6) 28 (2019), no. 4, 733–811.\nJ. Anderson, I. Bouw, O. Edjer, N. Girgin, V. Karemaker, and M. Manes, “Dynamical Belyi maps,” in Women in Numbers Europe 2, Springer (2018), 57–82.\nA. Bridy, P. Ingram, R. Jones, J. Juul, A. Levy, M. Manes, S. Rubinstein-Salzedo, and J. H. Silverman, “Finite ramification for preimage fields of postcritically finite morphisms,” Mathematical Research Letters 24 (2017), no. 6, 1633–1647.\nF. Balestrieri, J. Berg, M. Manes, J. Park, and B. Viray, “Insufficiency of the Brauer-Manin obstruction for Enriques surfaces,” in Directions in Number Theory: Proceedings of the 2014 WIN3 Workshop, Springer (2016), 1–31.\nI. Bouw, J. Cooley, K. Lauter, E. Lorenzo Garcia, M. Manes, R. Newton, and E. Ozman, “Bad reduction of genus-3 curves with complex multiplication,” in Women in Numbers Europe, Springer (2015), 109–151.\nX. Faber, M. Manes, and B. Viray, “Computing conjugating sets and automorphism groups of rational functions,” Journal of Algebra 423 (2015), 1161–1190.\nB. Hutz and M. Manes, “The field of definition for dynamical systems on ℙᴺ,” Bulletin of the Institute of Mathematics Academia Sinica 9 (2014), 585–601.\nD. Lukas, M. Manes, and D. Yap, “A census of quadratic post-critically finite rational functions defined over ℚ,” LMS J. Comput. Math. 17 (2014), 314–329.\nA. Levy, M. Manes, and B. Thompson, “Uniform bounds for pre-periodic points in families of twists,” Proceedings of the AMS 142 (2014), 3075–3088.\nR. Jones and M. Manes, “Galois theory of rational functions with nontrivial automorphisms,” Comment. Math. Helv. 89 (2014), 173–213.\nM.-J. Bertin, A. Feaver, J. Fuselier, M. Lalín, and M. Manes, “Mahler measure of some singular K3-surfaces,” in Women in Numbers 2, Contemp. Math. 606 (2013), 237–247.\nM. Manes and Y. Yasufuku, “Explicit descriptions of quadratic maps on ℙ¹ defined over a field K,” Acta Arithmetica 148 (2011), 257–267.\nB. Malmskog and M. Manes, “Ramified covers of graphs and the Ihara zeta functions of certain ramified covers,” in WIN — Women in Numbers, Fields Institute Communications 60 (2011), 237–247.\nB. Malmskog and M. Manes, “Almost divisibility in the Ihara zeta functions of certain ramified covers of q+1-regular graphs,” Linear Algebra and Its Applications 432 (2010), 2486–2506.\nX. Faber, B. Hutz, P. Ingram, R. Jones, M. Manes, T. Tucker, and M. Zieve, “Uniform bounds on pre-images under quadratic dynamical systems,” Mathematical Research Letters 16 (2009), 87–101.\nM. Manes, “Moduli spaces for families of rational maps on ℙ¹,” Journal of Number Theory 129 (2009), 1623–1663.\nM. Manes, “ℚ-rational cycles for degree-2 rational maps having an automorphism,” Proceedings of the London Mathematical Society 96 (2008), 669–696."
-  },
-  {
-    "objectID": "research.html#selected-invited-talks",
-    "href": "research.html#selected-invited-talks",
-    "title": "Research",
-    "section": "Selected invited talks",
-    "text": "Selected invited talks\n\n“Mahler measure and arithmetic dynamics,” Southern California Number Theory Day (2022); Oregon Number Theory Day (2021).\n“Going around in circles: periodic points in dynamics,” Oregon Number Theory Day (2021).\n“A census of quadratic post-critically finite rational functions defined over ℚ,” Algorithmic Number Theory Symposium (ANTS XI), Gyeongju, South Korea (2014).\n“Computing automorphism groups of rational functions,” International Workshop on Diophantine Problems and Arithmetic Dynamics, Seoul, South Korea (2014).\n“Variations on a theme: fields of definition, fields of moduli, automorphisms, and twists,” Taipei, Taiwan (2013); ICERM, Providence, RI (2012).\n“The Berkovich projective line,” Workshop in Dynamics, University of Illinois at Chicago (2010)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Michelle Manes",
+    "objectID": "leadership.html#current-roles",
+    "href": "leadership.html#current-roles",
+    "title": "Leadership & Service",
     "section": "",
-    "text": "Michelle Manes\n\n\n\n\nI’m a mathematician and Deputy Director of the American Institute of Mathematics (AIM). My research is in arithmetic dynamics and number theory, and much of my work centers on building and sustaining research communities — especially ones that widen who gets to do mathematics.\nI’m also Co-Editor-in-Chief of La Matematica, the flagship journal of the Association for Women in Mathematics, and Associate Secretary for the Western Section of the American Mathematical Society.\nCV (PDF)  ·  Google Scholar  ·  arXiv  ·  ORCID  ·  email"
+    "text": "Deputy Director, American Institute of Mathematics (AIM) — 2022–present\n\nI work closely with the Executive Director to create, manage, and oversee AIM’s scientific programs — more than 20 workshops and 60+ SQuaRE research groups each year — and I share responsibility for the institute’s leadership, budgeting, fundraising, and representation to the mathematical community. I was a major contributor to and co-PI on the $12.7M NSF award establishing AIM’s Research Conference Center (“A Model for Collaboration,” 2025–2030), and I oversaw AIM’s move to its new home on the Caltech campus.\n\nCo-Editor-in-Chief, La Matematica — 2022–present\n\nOne of four founding editors-in-chief of the flagship journal of the Association for Women in Mathematics, published by Springer. We built the journal around equitable publishing practices — a doubly anonymous review process, a name-change policy, constructive reviews, quick turnaround, and an editorial board with exceptional diversity.\n\nAssociate Secretary, Western Section, American Mathematical Society — 2023–present\n\nResponsible for the scientific program of two AMS sectional meetings each year and the Joint Mathematics Meetings every four years, and a member of the AMS Council. Associate Secretary in charge of JMM 2024 (San Francisco) and JMM 2028 (Philadelphia), and of the AMS Joint International Meeting in Armenia (2028)."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Michelle Manes",
-    "section": "About",
-    "text": "About\nMy research is in arithmetic dynamics — the study of number-theoretic and arithmetic-geometric questions that arise from iterating rational maps — and more broadly in number theory and arithmetic geometry. I earned my Ph.D. at Brown University under Joseph H. Silverman.\nFor fifteen years I was on the mathematics faculty at the University of Hawai‘i at Mānoa, where I was Professor of Mathematics, and from 2018 to 2021 I served as a Program Director in the Division of Mathematical Sciences at the National Science Foundation. Since 2022 I have been Deputy Director of AIM, helping to lead one of the NSF-supported U.S. mathematical sciences research institutes.\nBefore returning to graduate school I spent a decade as a mathematics educator, and that experience continues to shape how I think about teaching, mentoring, outreach, and access to mathematics. I’m a Fellow of the American Mathematical Society (2024) and of the Association for Women in Mathematics (2020)."
+    "objectID": "leadership.html#previous-roles",
+    "href": "leadership.html#previous-roles",
+    "title": "Leadership & Service",
+    "section": "Previous roles",
+    "text": "Previous roles\n\nProgram Director, Division of Mathematical Sciences, National Science Foundation — 2018–2021\n\nStewarded a portfolio of research and education awards — primary responsibility for 100+ proposals a year and shared responsibility for 500+ — across the Algebra and Number Theory, REU, CAREER, Focused Research Groups, Research Training Groups, and CDS&E programs. Helped propose a new “Research Initiation” program to support investigators launching their research careers.\n\nProfessor, Department of Mathematics, University of Hawai‘i at Mānoa — 2008–2023\n\nFaculty member for fifteen years (Assistant, Associate, then full Professor), with an active research program and extensive departmental and university service. (See Teaching & Outreach for teaching and mentoring.)"
+  },
+  {
+    "objectID": "leadership.html#building-research-communities",
+    "href": "leadership.html#building-research-communities",
+    "title": "Leadership & Service",
+    "section": "Building research communities",
+    "text": "Building research communities\n\nRoots of Unity workshop — co-founder and co-organizer, 2022–present\n\nA workshop supporting graduate students’ transition to research in algebra, combinatorics, geometry, topology, and number theory, designed to build a welcoming and inclusive research community. Brought to the math institutes with funding I secured through a collaborative NSF grant.\n\nWomen in Numbers (WIN) — Steering Committee (Founding Chair, 2015–2019; member, 2019–present)\n\nAn international research network building collaborations and community among women in number theory. Co-organized WIN research collaboration workshops at the Banff International Research Station (2011, 2017) and edited the resulting proceedings volumes.\n\n\nA complete list of grants and professional service is in my CV."
   }
 ]
