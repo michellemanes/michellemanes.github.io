@@ -1,1 +1,1 @@
-Sitemap: https://michellemanes.com/sitemap.xml
+Sitemap: https://michellemanes.github.io/sitemap.xml

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<!--
+  Portfolio page for the Quarto site. This is a hand-built HTML page (not a .qmd),
+  so _quarto.yml lists it — along with the geometry/ folder and images/ — under
+  project: resources, so `quarto render` copies them all into _site.
+  • Screenshots live in  images/  (the same folder as the rest of the site).
+  • The LearningMath rebuild lives in  geometry/  (entry: geometry/index.html);
+    the "View archived course" link below points there with a relative URL.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Michelle Manes — Content &amp; Curriculum Portfolio</title>
+<style>
+  :root{
+    --ink:#20242b; --muted:#5b626f; --line:#e6e2d9; --bg:#fbfaf7;
+    --accent:#2b6a66; --card:#ffffff;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font:16.5px/1.65 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:860px; margin:0 auto; padding:56px 22px 80px}
+  a{color:var(--accent); text-decoration:none}
+  a:hover{text-decoration:underline}
+  header h1{
+    font-family:Georgia,"Iowan Old Style","Times New Roman",serif;
+    font-weight:600; font-size:2.5rem; line-height:1.1; margin:0 0 6px;
+    letter-spacing:-.01em;
+  }
+  .tag{font-size:1.12rem; color:var(--muted); margin:0 0 14px}
+  .meta-links{font-size:.95rem; color:var(--muted)}
+  .meta-links a{color:var(--ink)}
+  .rule{height:2px; background:var(--accent); width:56px; margin:22px 0 30px; border-radius:2px}
+  .intro{font-size:1.08rem; color:#31363f; margin:0 0 8px}
+  section.project{
+    margin:44px 0 0; padding-top:34px; border-top:1px solid var(--line);
+  }
+  section.project:first-of-type{border-top:none; padding-top:0}
+  .project h2{
+    font-family:Georgia,"Iowan Old Style",serif; font-weight:600;
+    font-size:1.5rem; margin:0 0 4px;
+  }
+  .kicker{
+    font-size:.8rem; text-transform:uppercase; letter-spacing:.08em;
+    color:var(--accent); font-weight:600; margin:0 0 10px;
+  }
+  .desc{margin:0 0 14px}
+  .links{font-size:.96rem; margin:0 0 20px}
+  .links a{margin-right:18px; white-space:nowrap}
+  .links a::after{content:" \2197"; font-size:.85em; color:var(--muted)}
+  .archived{color:var(--muted); font-style:italic}
+  .shots{display:flex; flex-wrap:wrap; gap:16px}
+  figure.shot{flex:1 1 340px; margin:0}
+  figure.shot img{
+    width:100%; height:auto; display:block; border:1px solid var(--line);
+    border-radius:8px; box-shadow:0 8px 26px rgba(20,24,31,.09);
+  }
+  figcaption{font-size:.85rem; color:var(--muted); margin-top:8px}
+  .more h2{font-family:Georgia,serif; font-size:1.25rem; margin:0 0 10px}
+  .more ul{margin:0; padding-left:1.1em}
+  .more li{margin:6px 0; color:#31363f}
+  footer{margin-top:64px; padding-top:22px; border-top:1px solid var(--line);
+    font-size:.9rem; color:var(--muted)}
+  @media (max-width:620px){
+    .wrap{padding:40px 18px 60px}
+    header h1{font-size:2.05rem}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>Michelle Manes</h1>
+    <p class="tag">Content &amp; curriculum &mdash; learning design across print, video, and the web.</p>
+    <p class="meta-links">
+      <a href="mailto:michelle.manes@gmail.com">michelle.manes@gmail.com</a> &nbsp;·&nbsp;
+      <a href="https://michellemanes.github.io">michellemanes.github.io</a>
+    </p>
+    <div class="rule"></div>
+    <p class="intro">
+      For three decades I have built learning experiences for a wide range of audiences &mdash;
+      K&ndash;12 students, pre- and in-service teachers, and college students &mdash; across print
+      curricula, multimedia video courses, open educational resources, and interactive online
+      environments. A few pieces I&rsquo;m proud of are showcased below.
+    </p>
+  </header>
+
+  <!-- ── Mathematics for Elementary Teachers ───────────────────────────── -->
+  <section class="project">
+    <p class="kicker">Open educational resource &middot; online course</p>
+    <h2>Mathematics for Elementary Teachers</h2>
+    <p class="desc">
+      An open, freely licensed textbook I wrote (CC BY-SA, 2018) for the two-semester
+      mathematics-content course future elementary teachers take. I redesigned the sequence from
+      scratch through iterative feedback with the College of Education and students, then worked
+      with the university&rsquo;s Distance Course Design &amp; Consulting team to turn it into a
+      fully online course so students on Hawai&lsquo;i&rsquo;s outer islands could take it at a distance.
+    </p>
+    <p class="links">
+      <a href="https://pressbooks-dev.oer.hawaii.edu/math111/">OER textbook</a>
+      <a href="https://learn.coe.hawaii.edu/math111-master/">Online course &mdash; Math 111</a>
+      <a href="https://learn.coe.hawaii.edu/math112-master/">Online course &mdash; Math 112</a>
+    </p>
+    <div class="shots">
+      <figure class="shot">
+        <img src="images/mfet-book-1.png" alt="Mathematics for Elementary Teachers open textbook">
+        <figcaption>Open textbook (Pressbooks)</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/mfet-book-2.png" alt="Mathematics for Elementary Teachers open textbook">
+        <figcaption>Open textbook &mdash; sample lesson</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/mfet-course-1.png" alt="Math 111 fully online course">
+        <figcaption>Fully online course for distance learners</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/mfet-course-2.png" alt="Math 111 fully online course">
+        <figcaption>Online course &mdash; sample activity</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- ── Making Mathematics ────────────────────────────────────────────── -->
+  <section class="project">
+    <p class="kicker">Interactive online program &middot; grades 7&ndash;12</p>
+    <h2>Making Mathematics</h2>
+    <p class="desc">
+      An online program that matched middle- and high-school students and their teachers with
+      professional mathematicians to mentor open-ended mathematics research projects. I was a
+      project director and part of the author team, building the research projects and the
+      supporting materials &mdash; warm-up problems, hints, and extensions &mdash; for students,
+      teachers, and mentors. NSF-funded; an Education World award winner; still online today.
+    </p>
+    <p class="links">
+      <a href="https://www2.edc.org/makingmath/">Explore the site</a>
+    </p>
+    <div class="shots">
+      <figure class="shot">
+        <img src="images/making-mathematics-1.png" alt="Making Mathematics website">
+        <figcaption>Making Mathematics (EDC)</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/making-mathematics-2.png" alt="Making Mathematics research project">
+        <figcaption>Sample research project</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- ── LearningMath: Geometry ────────────────────────────────────────── -->
+  <section class="project">
+    <p class="kicker">Multimedia video-and-web course &middot; teacher PD</p>
+    <h2>LearningMath: Geometry</h2>
+    <p class="desc">
+      A video-and-web professional-development course teaching geometry to K&ndash;8 teachers,
+      produced for Annenberg/CPB. I developed the course, combining broadcast-quality video
+      with web-based problem sets and interactives. It was distributed nationally for more than two
+      decades. <span class="archived">Annenberg Learner was permanently retired in 2026; a
+      rebuilt archive of the course is linked here.</span>
+    </p>
+    <p class="links">
+      <a href="geometry/index.html">View archived course</a>
+    </p>
+    <div class="shots">
+      <figure class="shot">
+        <img src="images/learningmath-geometry-1.png" alt="LearningMath: Geometry course">
+        <figcaption>LearningMath: Geometry (Annenberg/CPB)</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/learningmath-geometry-2.png" alt="LearningMath: Geometry course">
+        <figcaption>Video session</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/learningmath-geometry-3.png" alt="LearningMath: Geometry course">
+        <figcaption>Interactive problem set</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="images/learningmath-geometry-4.png" alt="LearningMath: Geometry course">
+        <figcaption>Course session</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- ── Also authored (text only) ─────────────────────────────────────── -->
+  <section class="project more">
+    <h2>Also authored</h2>
+    <ul>
+      <li><strong>IMPACT Mathematics</strong> &mdash; one of four lead authors; nationally adopted middle-school program (Glencoe/McGraw-Hill).</li>
+      <li><strong>Connected Geometry</strong> and <strong>Mathematical Methods in High School</strong> &mdash; author team; now part of the CME Project secondary curriculum.</li>
+      <li><strong>Linear Algebra and Geometry</strong> &mdash; co-author, AMS/MAA Textbooks (2019).</li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; <span id="yr"></span> Michelle Manes.
+  </footer>
+  <script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+
+</div>
+</body>
+</html>
